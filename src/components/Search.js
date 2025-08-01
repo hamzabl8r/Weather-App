@@ -13,6 +13,7 @@ const Search = ({ onSearch }) => {
     };
 
     return (
+        
         <form onSubmit={handleSubmit} className='Search-Container'>
             <input
                 type='text'
