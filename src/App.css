@@ -181,6 +181,8 @@ input[type="text"]:focus {
     top: -40px;
     margin: 30px;
   }
+  .Search-Container{
+    margin-top:10px;
 }
 
 @media (max-width: 600px) {
@@ -195,6 +197,7 @@ input[type="text"]:focus {
   }
   .Search-Container {
     padding: 0 5px;
+    margin-top:10px;
   }
   input[type="text"] {
     width: 95%;
